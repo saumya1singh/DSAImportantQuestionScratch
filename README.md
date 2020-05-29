@@ -1,7 +1,8 @@
 # DSA Important Questions from Scratch
 
-Hey there!
-This repo contains some important and frequently asked questions in tech interviews.
+## Hey there!
+
+### This repo contains some important and frequently asked questions in tech interviews.
 
 It includes solution of questions from:
 1. SPOJ - https://www.spoj.com/
