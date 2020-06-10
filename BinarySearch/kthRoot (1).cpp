@@ -2,6 +2,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+//Finf kth Root
+
 bool isAnswer(long long n,long long k,long long mid){
     if(pow(mid,k)<=n){
         return true;
